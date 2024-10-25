@@ -1,0 +1,10 @@
+
+
+*.o
+main
+gdb.txt
+
+*~
+
+grader-output/
+
